@@ -3,3 +3,4 @@ pyTelegramBotAPI
 Flask
 flask
 Pillow
+python-telegram-bot
