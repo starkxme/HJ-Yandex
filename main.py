@@ -7,6 +7,9 @@ import asyncio
 import re
 import random
 import string
+from keep_alive import keep_alive
+
+keep_alive()
 
 # Your Yandex Mail credentials
 EMAIL = "akublutut@yandex.com"
