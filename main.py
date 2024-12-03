@@ -16,7 +16,7 @@ EMAIL = "akublutut@yandex.com"
 PASSWORD = "bcbgjkhninlcqxsn"  # Use Yandex app password, not the account password
 
 # Telegram Bot Token
-BOT_TOKEN = "7200824261:AAHJsFStUHXwNNvZntoKbhnDflnIcDDOhCg"
+BOT_TOKEN = "7200824261:AAGl08ZdTLWj67OTcmujKdWtF0r-hQAgFsU"
 
 # List to store all user IDs who have interacted with the bot
 user_ids = set()
